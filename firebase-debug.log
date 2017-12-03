@@ -1,0 +1,12 @@
+[debug] [2017-12-03T17:04:17.064Z] ----------------------------------------------------------------------
+[debug] [2017-12-03T17:04:17.067Z] Command:       /usr/local/bin/node /usr/local/bin/firebase deploy --only functions:addMessage
+[debug] [2017-12-03T17:04:17.067Z] CLI Version:   3.15.0
+[debug] [2017-12-03T17:04:17.067Z] Platform:      darwin
+[debug] [2017-12-03T17:04:17.067Z] Node Version:  v6.11.3
+[debug] [2017-12-03T17:04:17.069Z] Time:          Sun Dec 03 2017 12:04:17 GMT-0500 (EST)
+[debug] [2017-12-03T17:04:17.070Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-12-03T17:04:17.084Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-12-03T17:04:17.084Z] > authorizing via signed-in user
+[debug] [2017-12-03T17:04:17.087Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/test-free-7c8ee  
+ Sun Dec 03 2017 12:04:17 GMT-0500 (EST)
