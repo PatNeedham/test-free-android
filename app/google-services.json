@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "954120708778",
+    "firebase_url": "https://test-free-7c8ee.firebaseio.com",
+    "project_id": "test-free-7c8ee",
+    "storage_bucket": "test-free-7c8ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954120708778:android:137bd1e3a91fe2e3",
+        "android_client_info": {
+          "package_name": "io.needham.testfree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954120708778-0bf9iuunn7rvhifeugnj6cdn85c7grb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5xg5ggQOyjw1wl6eXMCR9QALzwZYEp9g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
