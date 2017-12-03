@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "954120708778-h7sni2h0k3sojlk7dvqbp7pit2kn9cfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.needham.testfree",
+            "certificate_hash": "9118a2be1a4c76ddbcf15be6d3a3c74fccd231b8"
+          }
+        },
+        {
           "client_id": "954120708778-0bf9iuunn7rvhifeugnj6cdn85c7grb7.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954120708778-0bf9iuunn7rvhifeugnj6cdn85c7grb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
